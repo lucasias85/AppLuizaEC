@@ -4,7 +4,7 @@
              x:Class="AppLuizaEC.Views.SimuladorLuizaPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+            <Label Text="Luiz Empresa de Crédito"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>
