@@ -84,7 +84,9 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\icon.png" />
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\overlay.jpg" />
+  </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AppLuizaEC\AppLuizaEC.csproj">
       <Project>{E6D38C0E-D57F-4E76-8587-39854D4002D9}</Project>
